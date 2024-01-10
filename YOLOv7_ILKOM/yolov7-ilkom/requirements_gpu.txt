@@ -1,0 +1,9 @@
+# For Torch GPU
+
+# -i https://download.pytorch.org/whl/cpu
+# torch==1.13.1+cpu
+# torchvision==0.14.1+cpu
+
+-i https://download.pytorch.org/whl/cu111
+torch==1.8.1+cu111
+torchvision==0.14.1+cu111
